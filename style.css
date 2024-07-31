@@ -82,7 +82,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 20px 80px;
-    background: #FFFFF3;
+    background: #F9F9F9;
     box-shadow: 0 5px 15px rgba(0, 217, 192, 0.3);
     z-index: 999;
     position: sticky;
@@ -446,6 +446,7 @@ body {
 }
 footer{
   display: flex;
+  background-color: #F9F9F9;
   flex-wrap: wrap;
   justify-content: space-between;
  }
