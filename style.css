@@ -794,7 +794,7 @@ footer .follow i:nth-child(5):hover{
 
 /* cart page */
 #cart{
-  overflow: auto;
+  overflow-x: auto;
 }
 
  #cart table{
